@@ -15,10 +15,12 @@ These are all of the mods we use to play SM64 Co-op DX in Chillycord. It's not n
 - [Modern Sonic Pack](https://mods.sm64coopdx.com/mods/cs-sonic-classic-and-modern-pack.444/)
 - [Peter Griffin](https://mods.sm64coopdx.com/threads/cs-peter-griffin.204/)
 - [Pizza Pack](https://mods.sm64coopdx.com/mods/cs-pizza-pack.233/)
+- [Sackboy](https://mods.sm64coopdx.com/mods/cs-sackboy.459/)
 - [Shovel Knight](https://mods.sm64coopdx.com/mods/cs-shovel-knight.409/)
 - Slam
 - [Squidward](https://mods.sm64coopdx.com/mods/cs-squidward.438/)
 - [Steve](https://mods.sm64coopdx.com/mods/cs-steve.430/)
 - [Sunshine Mario](https://mods.sm64coopdx.com/mods/cs-sunshine-mario.464/)
+- [Supersponge Spongebob](https://mods.sm64coopdx.com/mods/cs-supersponge-spongebob.626/)
 # List of Other Mods
 - [Realistic Explosion](https://mods.sm64coopdx.com/threads/realistic-explosion.742/)
