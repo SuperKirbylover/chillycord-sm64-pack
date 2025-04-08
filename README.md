@@ -10,6 +10,7 @@ These are all of the mods we use to play SM64 Co-op DX in Chillycord. It's not n
 - [Draco](https://mods.sm64coopdx.com/mods/cs-draco-centauros.268/)
 - [Flame Hyenard](https://mods.sm64coopdx.com/mods/cs-flame-hyenard.668/)
 - [H](https://mods.sm64coopdx.com/mods/cs-h.635/)
+- [Jack Black Steve](https://mods.sm64coopdx.com/mods/cs-jack-black-steve.677/)
 - [King Harkinian](https://mods.sm64coopdx.com/mods/cs-king-harkinian.648/)
 - [Maurice](https://mods.sm64coopdx.com/mods/cs-maurice-spaghetti.238/)
 - [Modern Sonic Pack](https://mods.sm64coopdx.com/mods/cs-sonic-classic-and-modern-pack.444/)
